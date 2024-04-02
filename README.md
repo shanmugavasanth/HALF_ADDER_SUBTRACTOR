@@ -72,22 +72,29 @@ endmodule
 ```
 
 Developed by : Shanmuga Vasanth M
+
 RegisterNumber : 212223040191
 
 **RTL Schematic**
 
 
 **HALF ADDER**
+
 ![image](https://github.com/shanmugavasanth/HALF_ADDER_SUBTRACTOR/assets/144870621/ef7db25a-fa76-464d-b346-8186b8a89731)
+
 **HALF SUBTRACTOR**
+
 ![image](https://github.com/shanmugavasanth/HALF_ADDER_SUBTRACTOR/assets/144870621/a5498af6-5f18-44a9-a8b7-4388d8474581)
 
 
 **Output/TIMING Waveform**
+
 **HALF ADDER**
 
 ![image](https://github.com/shanmugavasanth/HALF_ADDER_SUBTRACTOR/assets/144870621/52ff327f-a6ab-4413-b3fa-bb2d2c43f5fe)
+
 **HALF SUBTRACTOR**
+
 ![image](https://github.com/shanmugavasanth/HALF_ADDER_SUBTRACTOR/assets/144870621/a6fcabc2-1a84-4ad6-9c64-c458162aa4ab)
 
 **Result:**
